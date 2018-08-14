@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/Controlador/CConsultaCandidato.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>95</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Joselyn/Documents/NetBeansProjects/Laboratorio/src/Vista/VConsultaCandidato.java</file>
+            <file>file:/C:/Users/Joselyn/Documents/NetBeansProjects/Laboratorio/src/Controlador/CCandidato.java</file>
+            <file>file:/C:/Users/Joselyn/Documents/NetBeansProjects/Laboratorio/src/Dao/DaoAsigCand.java</file>
+            <file>file:/C:/Users/Joselyn/Documents/NetBeansProjects/Laboratorio/src/Vista/VConsultaUtilidad.java</file>
+            <file>file:/C:/Users/Joselyn/Documents/NetBeansProjects/Laboratorio/src/Vista/VAgregarCargo.java</file>
+            <file>file:/C:/Users/Joselyn/Documents/NetBeansProjects/Laboratorio/src/Controlador/CAsignarCand.java</file>
+            <file>file:/C:/Users/Joselyn/Documents/NetBeansProjects/Laboratorio/src/Controlador/CConsultaUtilidad.java</file>
+            <file>file:/C:/Users/Joselyn/Documents/NetBeansProjects/Laboratorio/src/Controlador/CRegIngresos.java</file>
+            <file>file:/C:/Users/Joselyn/Documents/NetBeansProjects/Laboratorio/src/Vista/VNomina.java</file>
+            <file>file:/C:/Users/Joselyn/Documents/NetBeansProjects/Laboratorio/src/Controlador/CEntrevista.java</file>
+            <file>file:/C:/Users/Joselyn/Documents/NetBeansProjects/Laboratorio/src/Vista/VCandidato.java</file>
+            <file>file:/C:/Users/Joselyn/Documents/NetBeansProjects/Laboratorio/src/Vista/VProyecto.java</file>
+            <file>file:/C:/Users/Joselyn/Documents/NetBeansProjects/Laboratorio/src/Controlador/CProyecto.java</file>
+            <file>file:/C:/Users/Joselyn/Documents/NetBeansProjects/Laboratorio/src/Controlador/CNomina.java</file>
+            <file>file:/C:/Users/Joselyn/Documents/NetBeansProjects/Laboratorio/src/ConexionBD.properties</file>
+            <file>file:/C:/Users/Joselyn/Documents/NetBeansProjects/Laboratorio/src/Controlador/CPago.java</file>
+            <file>file:/C:/Users/Joselyn/Documents/NetBeansProjects/Laboratorio/src/Dao/DaoProyecto.java</file>
+            <file>file:/C:/Users/Joselyn/Documents/NetBeansProjects/Laboratorio/src/Controlador/CConsultaCandidato.java</file>
+            <file>file:/C:/Users/Joselyn/Documents/NetBeansProjects/Laboratorio/src/Vista/VEntrevista.java</file>
+            <file>file:/C:/Users/Joselyn/Documents/NetBeansProjects/Laboratorio/src/Vista/VRegIngresos.java</file>
+        </group>
+    </open-files>
+</project-private>
